@@ -1,0 +1,11 @@
+* Kannada MNIST - Computer Vision
+https://www.kaggle.com/c/Kannada-MNIST/
+
+* Dogs vs. Cats Redux: Kernels Edition - Computer Vision
+https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/
+
+* Leaf Classification - Computer Vision
+https://www.kaggle.com/c/leaf-classification/
+
+* Facial Keypoints Detection - Computer Vision
+https://www.kaggle.com/c/facial-keypoints-detection/
