@@ -9,3 +9,12 @@ https://www.kaggle.com/c/leaf-classification/
 
 * Facial Keypoints Detection - Computer Vision
 https://www.kaggle.com/c/facial-keypoints-detection/
+
+* Bengali.AI Handwritten Grapheme Classification
+https://www.kaggle.com/c/bengaliai-cv19/
+
+* Dog Breed Identification
+https://www.kaggle.com/c/dog-breed-identification
+
+* Plant Seedlings Classification
+https://www.kaggle.com/c/plant-seedlings-classification/data
