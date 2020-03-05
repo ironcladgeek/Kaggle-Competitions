@@ -1,6 +1,12 @@
 * Kannada MNIST - Computer Vision
 https://www.kaggle.com/c/Kannada-MNIST/
 
+* Categorical Feature Encoding Challenge II
+https://www.kaggle.com/c/cat-in-the-dat-ii/
+
+
+
+
 * Dogs vs. Cats Redux: Kernels Edition - Computer Vision
 https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/
 
